@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">meanLook</string>
+    <string name="switch_btn">Switch cam</string>
+    <string name="take_photo">Take photo</string>
+</resources>
